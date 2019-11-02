@@ -1,0 +1,190 @@
+html,body{
+background-image:url("TheNumeStyle.png");
+background-position:center center;
+height: 100%;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+}
+h1{
+color: white;
+text-transform: uppercase;
+}
+
+.sing-button{
+background: linear-gradient(to right ,#b74d18 , #f65);
+width: 350px;
+font-size:20px;
+height: 89.389851118px;
+border: 1px black solid;
+text-transform: uppercase;
+text-align:center;
+color:white;
+font-weight: 600;
+
+}
+
+.sing-button:hover{
+	background: linear-gradient(to right ,#8a5a42 , #8a4942);
+	box-shadow: 0px 5px 10px #423d3a;
+}
+.margin-smise{
+margin:40px;
+}
+.navbar-smise{
+background-color: transparent;
+display: flex;
+justify-content:space-between;
+text-transform: capitalize;
+}
+.navbar-smise ul a{
+ margin-left:30px;
+}
+.navbar-smise div{
+}
+.a-smise{
+font-family: helvetica;
+color:#565656 !important;
+animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+   transition: font-size 1s;
+   -webkit-transition: font-size 1s;
+}
+
+
+.a-smise:hover{
+font-family: helvetica;
+color:white;
+font-size:25px;
+  -webkit-animation-name: shake;
+  animation-name: shake;
+  -webkit-transform-origin: center bottom;
+  transform-origin: center bottom;
+    -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+    -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+    -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+
+}
+
+
+.a-smise:visited{
+font-family: helvetica;
+color:white;
+font-size:25px;
+  -webkit-transform-origin: center bottom;
+  transform-origin: center bottom;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+    -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+    -webkit-animation-duration: 0.75s;
+  animation-duration: 0.75s;
+  -webkit-animation-name: bounceIn;
+  animation-name: bounceIn;
+
+}
+
+#logo:hover{
+	  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-animation-name: hinge;
+  animation-name: hinge;
+    -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+      -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+.smise-label{
+width:160px;
+color:white;
+margin:2px 10px;
+text-align: left;
+text-transform: capitalize;
+}
+.smise-input{
+color:black;
+width: 161.5px;
+height:55.246px;
+border: 1px #894519 solid;
+}
+.smise-input-A{
+padding: 16.2px;
+color:black;
+width: 350px;
+height:55.246px;
+border: 1px #894519 solid;
+}
+.smise-label-A{
+text-align: left;
+color:white;
+margin:2px 10PX;
+width: 350px;
+text-transform: capitalize;
+}
+.smise-input-AA{
+color:black;
+margin:2px 10px;
+width: 350px;
+height:144.6357289740109px;
+border: 1px #894519 solid;
+margin-bottom: 24px !important;
+max-width:350px;
+padding-top: 0px !important;
+padding-left: 0px !important;
+line-height:25.888528px;
+font-size: 16px; 
+resize: none;
+}
+
+#smise-form{
+	float: right;
+	background-image:linear-gradient(#00ffff90,#00000090); 
+	padding: 30px;
+	margin-top: 5.25%;
+}
+
+#content{
+	float: left;
+	width:1282.689188618px;
+	color:white;
+}
+
+#content p{
+	font-weight: ;
+	font-size: 16px;
+	line-height: 25.888528px;
+	width: 557.4602001318885px;
+	font-family:roboto !important;
+	-webkit-text-stroke 
+}
+
+#thesmise{
+	width:90%;
+	margin-left: 90px;
+	font-weight: 600;
+}
+
+.vis{
+border-radius:0%;
+margin:2px 10px;
+text-transform: capitalize;
+padding:16.2px;
+}
+
+#footer-Tn{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color:#253a2e;
+	text-align: center;
+	color:white;
+	padding:18px;
+}
